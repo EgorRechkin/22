@@ -1,0 +1,14 @@
+C:\Users\Egor\RiderProjects\CompMath2\CompMath2\obj\Debug\net8.0\CompMath2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egor\RiderProjects\CompMath2\CompMath2\obj\Debug\net8.0\CompMath2.AssemblyInfoInputs.cache
+C:\Users\Egor\RiderProjects\CompMath2\CompMath2\obj\Debug\net8.0\CompMath2.AssemblyInfo.cs
+C:\Users\Egor\RiderProjects\CompMath2\CompMath2\obj\Debug\net8.0\CompMath2.csproj.CoreCompileInputs.cache
+C:\Users\Egor\RiderProjects\CompMath2\CompMath2\bin\Debug\net8.0\CompMath2.exe
+C:\Users\Egor\RiderProjects\CompMath2\CompMath2\bin\Debug\net8.0\CompMath2.deps.json
+C:\Users\Egor\RiderProjects\CompMath2\CompMath2\bin\Debug\net8.0\CompMath2.runtimeconfig.json
+C:\Users\Egor\RiderProjects\CompMath2\CompMath2\bin\Debug\net8.0\CompMath2.dll
+C:\Users\Egor\RiderProjects\CompMath2\CompMath2\bin\Debug\net8.0\CompMath2.pdb
+C:\Users\Egor\RiderProjects\CompMath2\CompMath2\obj\Debug\net8.0\CompMath2.dll
+C:\Users\Egor\RiderProjects\CompMath2\CompMath2\obj\Debug\net8.0\refint\CompMath2.dll
+C:\Users\Egor\RiderProjects\CompMath2\CompMath2\obj\Debug\net8.0\CompMath2.pdb
+C:\Users\Egor\RiderProjects\CompMath2\CompMath2\obj\Debug\net8.0\CompMath2.genruntimeconfig.cache
+C:\Users\Egor\RiderProjects\CompMath2\CompMath2\obj\Debug\net8.0\ref\CompMath2.dll
